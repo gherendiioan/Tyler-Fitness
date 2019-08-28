@@ -1,0 +1,33 @@
+/*Stylesheet for index.html - Tyler template site 1*/
+/*icons*/
+.icoane{
+	width: 100px;
+	height: 100px;
+	display: inline-block;
+	border-radius: 10%;
+	border-width: 2px;
+	border-color: black;
+}
+
+.jumbotron {
+	text-align: center;
+	background-image: url("../media/pics/FB_IMG_1566739864524.jpg");
+	background-size: cover;
+	background-position: 0 40%;
+}
+
+#align-center{
+	text-align: center;
+}
+
+#img-logo-float-left{
+	float: left;
+	border-radius: 50%;
+	width: 80px;
+	height: 80px;
+	margin-right: 10px;
+}
+
+#pgraf-fright{
+	float: right;
+}
